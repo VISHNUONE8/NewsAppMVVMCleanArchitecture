@@ -23,6 +23,11 @@ A NewsApp for Android Users built with MVVM Clean Architecture and Jetpack Compo
 - Swipe to delete for managing saved news articles
 
 
+<p align="center">
+<img alt="mvvm-architecture"  src="https://github.com/VISHNUONE8/NewsAppMVVMCleanArchitecture/blob/main/assets/mvvm_clean_arch.jpeg">
+</p>
+
+
 ## Features Implemented
 
 - Show top news articles
@@ -45,7 +50,7 @@ A NewsApp for Android Users built with MVVM Clean Architecture and Jetpack Compo
 
 - Clone the Repository:
 ```
-git clone https://github.com/khushpanchal/NewsApp.git
+git clone https://github.com/VISHNUONE8/NewsAppMVVMCleanArchitecture.git
 cd NewsApp
 ```
 - Visit newsapi.org and sign up for an API key, Copy the API key provided
@@ -56,3 +61,9 @@ buildConfigField("String", "API_KEY", "\"<Add your API Key>\"")
 - Replace "Add your API Key" with the API key you obtained
 - Build and run the NewsApp.
 
+
+
+
+<p align="center">
+<img alt="screenshots"  src="https://github.com/VISHNUONE8/NewsAppMVVMCleanArchitecture/blob/main/assets/news_app_screens.jpeg">
+</p>
