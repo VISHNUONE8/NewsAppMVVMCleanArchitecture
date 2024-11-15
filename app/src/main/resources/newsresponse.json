@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 1640,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-07T22:08:55Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-07T14:00:42Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-07T14:00:57Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Christopher Null",
+      "title": "Apple iMac (M4, 2024) Review: Small but Worthwhile Upgrades",
+      "description": "It’s round four for the iMac on Apple silicon. Turns out the first time was the charm, but this one’s great too.",
+      "url": "https://www.wired.com/review/apple-imac-m4-2024/",
+      "urlToImage": "https://media.wired.com/photos/672cdcd8fec96cdc5de27920/191:100/w_1280,c_limit/mac-gear.jpg",
+      "publishedAt": "2024-11-07T15:51:25Z",
+      "content": "The iMac M4 still features multiple variants, starting with the $1,299 model that includes an 8-core CPU, 8-core GPU, 16 GB of RAM, and 256 GB of storageand just two USB-C Thunderbolt 4 ports. (Sorry… [+2919 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Matter 1.4 tries to set the smart home standard back on track",
+      "description": "Matter 1.4, the latest specification for the Apple, Amazon, and Google-backed standard, brings improvements to interoperability and enables energy management solutions.",
+      "url": "https://www.theverge.com/2024/11/7/24289972/matter-smart-home-standard-1-4-spec-new-features-device-types",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Xvz8zdXWaT8ru4FUKi4BsIC5am8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24087547/STK138_Matter_K_Radtke_02.jpg",
+      "publishedAt": "2024-11-07T13:00:00Z",
+      "content": "Matter 1.4 tries to set the smart home standard back on track\r\nMatter 1.4 tries to set the smart home standard back on track\r\n / The new spec brings much-needed fixes for interoperability and Thread … [+14845 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Apple’s new AirPlay options for macOS add a little more privacy",
+      "description": "In macOS Sequoia 15.2, you can share a single window or app over AirPlay instead of your entire screen.",
+      "url": "https://www.theverge.com/2024/11/7/24290301/apple-macos-screen-mirroring-airplay-single-window",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/u5PTtiRI_zoLyfdEQNo4BerZR1Q=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25718396/247372_MacBook_Pro_M4_ADiBenedetto_0035.jpg",
+      "publishedAt": "2024-11-07T14:57:39Z",
+      "content": "Apples new AirPlay options for macOS add a little more privacy\r\nApples new AirPlay options for macOS add a little more privacy\r\n / The macOS Sequoia 15.2 Beta update changes AirPlay, so you dont have… [+1466 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "What’s really behind Big Tech’s return-to-office mandates?",
+      "description": "Do return-to-office mandates mean the end of hybrid and remote work?",
+      "url": "https://www.theverge.com/24290345/return-to-office-mandates-amazon-productivity-remote-work-hybrid-decoder-podcast",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/U1-t3yTbk0YsDh7LEi9QxxyTTOE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25718047/AParkin_DCD_110724_RTO.jpg",
+      "publishedAt": "2024-11-07T15:15:00Z",
+      "content": "Whats really behind Big Techs return-to-office mandates?\r\nWhats really behind Big Techs return-to-office mandates?\r\n / Companies want workers back at their desks. Is it about productivity, backdoor l… [+5685 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Thomas Maxwell",
+      "title": "Clearly Hard Up for Cash, Nvidia to Limit GeForce Now Users to 100 Hours of Playtime a Month",
+      "description": "That comes out to about 3 hours of usage per day.",
+      "url": "https://gizmodo.com/clearly-hard-up-for-cash-nvidia-to-limit-geforce-now-users-to-100-hours-of-playtime-a-month-2000521590",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/GettyImages-1726448878.jpg",
+      "publishedAt": "2024-11-07T16:40:34Z",
+      "content": "Nvidia has rapidly ascended in the past two years to become the most valuable company on Earth thanks to its highly sought after GPUs for AI processing. But lest we forget, the company first made its… [+2378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Belkin Launches New Travel Bag for Apple Vision Pro",
+      "description": "Belkin today announced the launch of a new Travel Bag for the Apple Vision Pro, with the accessory joining the recently unveiled Belkin-branded Head Strap.\n\n\n\n\n\nThe Travel Bag from Belkin is not quite as large as Apple's own Vision Pro travel carrier, measuri…",
+      "url": "https://www.macrumors.com/2024/11/07/belkin-vision-pro-travel-bag/",
+      "urlToImage": "https://images.macrumors.com/t/fyj56kW7IcI1oB7vy7KnbDy7WGg=/2000x/article-new/2024/11/belkin-travel-bag.jpg",
+      "publishedAt": "2024-11-07T21:16:18Z",
+      "content": "Belkin today announced the launch of a new Travel Bag for the Apple Vision Pro, with the accessory joining the recently unveiled Belkin-branded Head Strap.\r\nThe Travel Bag from Belkin is not quite as… [+903 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Apple Expands High Power Mode to MacBook Pro and Mac Mini Models With M4 Pro Chip",
+      "description": "High Power Mode is available on the 14-inch MacBook Pro, 16-inch MacBook Pro, and Mac mini models with the M4 Pro chip, according to Ars Technica's Andrew Cunningham. The feature was previously limited to Macs with Apple's highest-end \"Max\" chip, so this is t…",
+      "url": "https://www.macrumors.com/2024/11/07/high-power-mode-for-m4-pro-macs/",
+      "urlToImage": "https://images.macrumors.com/t/Kuh0dUVgoedljBwejdUPwGGyvXM=/2500x/article-new/2023/11/High-Power-Mode-Feature-2.jpg",
+      "publishedAt": "2024-11-07T20:15:37Z",
+      "content": "High Power Mode is available on the 14-inch MacBook Pro, 16-inch MacBook Pro, and Mac mini models with the M4 Pro chip, according to Ars Technica's Andrew Cunningham. The feature was previously limit… [+2526 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Hartley Charlton",
+      "title": "Mac Mini With M4 and M4 Pro Reviews: Smaller Design and Pro Performance Make for Major Upgrade",
+      "description": "The new Mac mini will launch in stores and begin arriving to customers this Friday. Ahead of time, the first reviews of Apple's latest redesigned computer have been shared by select media outlets and YouTube channels.\n\n\n\nImage via The Verge\n\nThe Mac mini rece…",
+      "url": "https://www.macrumors.com/review/mac-mini-with-m4-and-m4-pro/",
+      "urlToImage": "https://images.macrumors.com/t/vRQUjjkXavsatRY7kElB2x4Bq1c=/1920x/article-new/2024/11/the-verge-mac-mini.jpg.jpeg",
+      "publishedAt": "2024-11-07T14:37:26Z",
+      "content": "The new Mac mini will launch in stores and begin arriving to customers this Friday. Ahead of time, the first reviews of Apple's latest redesigned computer have been shared by select media outlets and… [+6487 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "OLED MacBook Air Could Be Delayed Beyond 2027, Claims Report",
+      "description": "Apple's plans to release a MacBook Air with an OLED display may face significant delays beyond its original expected 2027 launch window, according to a new report from The Elec.\n\n\n\n\n\nIndustry sources cited by the Korean outlet point to pricing concerns and su…",
+      "url": "https://www.macrumors.com/2024/11/07/oled-macbook-air-delayed-past-2027/",
+      "urlToImage": "https://images.macrumors.com/t/FeDLJmR8qNoKsKBvutmHVUsthMI=/2500x/article-new/2024/08/macbook-air-red.jpg",
+      "publishedAt": "2024-11-07T10:39:54Z",
+      "content": "Apple's plans to release a MacBook Air with an OLED display may face significant delays beyond its original expected 2027 launch window, according to a new report from The Elec.\r\nIndustry sources cit… [+2368 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "How to Take a Quick Burst of Photos on iPhone",
+      "description": "If you're looking for a great way to capture a shot of an action scene or an unexpected event on your iPhone, try Burst mode in Apple's stock Camera app. In Burst mode, the camera on your iPhone captures a series of photos in rapid succession, at a rate of te…",
+      "url": "https://www.macrumors.com/how-to/take-burst-photos-iphone/",
+      "urlToImage": "https://images.macrumors.com/t/FmivXegCv_NwNthKK7i6bp5zWcM=/2000x/article-new/2024/09/iphone-16-camera.jpg",
+      "publishedAt": "2024-11-07T12:54:57Z",
+      "content": "If you're looking for a great way to capture a shot of an action scene or an unexpected event on your iPhone, try Burst mode in Apple's stock Camera app. In Burst mode, the camera on your iPhone capt… [+1837 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Hands-On With the Sonos Arc Ultra",
+      "description": "Back in October, Sonos ended its moratorium on new product launches and introduced the Arc Ultra, a new version of its popular Arc soundbar. We thought we'd check out the Arc Ultra to see if it's worth picking up as Sonos still struggles to overcome negative …",
+      "url": "https://www.macrumors.com/2024/11/07/hands-on-with-the-sonos-arc-ultra/",
+      "urlToImage": "https://images.macrumors.com/t/Rxz10PfvDLGEQsa-j0avK_rY2TU=/2500x/article-new/2024/11/Sonos-Arc-Ultra-Thumb-1.jpg",
+      "publishedAt": "2024-11-07T20:45:50Z",
+      "content": "Back in October, Sonos ended its moratorium on new product launches and introduced the Arc Ultra, a new version of its popular Arc soundbar. We thought we'd check out the Arc Ultra to see if it's wor… [+1884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Samantha Kelly",
+      "title": "Apple Reportedly Pushes OLED MacBook Air Release by Another Year",
+      "description": "The model isn't expected now until 2028.",
+      "url": "https://www.cnet.com/tech/computing/apple-reportedly-pushes-oled-macbook-air-release-by-another-year/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/e1dca15b3816383e3fa769f00808d2ddfdad98c6/hub/2024/10/29/f805b532-3da4-492b-a98d-c62148159041/m3-macbook-air-bf-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-11-07T16:18:00Z",
+      "content": "Fresh on the heels of reports that Apple may be delaying the launch of a redesigned MacBook, its rumored OLED MacBook Air could be pushed back now, too.\r\nA new report from Korea-based The Elec, citin… [+1830 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "ledmonds@businessinsider.com (Lauren Edmonds)",
+      "title": "Intel says it's bringing back free office coffee to boost morale after a rough year",
+      "description": "Intel has struggled to stay competitive in recent years, causing it to layoff thousands of employees and slash employee perks like free coffee.",
+      "url": "https://www.businessinsider.com/intel-employee-morale-perks-cost-cutting-struggles-2024-11",
+      "urlToImage": "https://i.insider.com/672d1480192f52589856c77d?width=1200&format=jpeg",
+      "publishedAt": "2024-11-07T20:49:19Z",
+      "content": "Intel will once again offer free coffee and tea to its employees after slashing the perks as part of its cost-cutting efforts.\r\nThe chip manufacturer said free in-office beverages would return to wor… [+2768 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "mberg@businessinsider.com (Madeline Berg,Huileng Tan)",
+      "title": "China's luxury slump is trickling down to other consumer companies",
+      "description": "Companies like Starbucks, Nike, and Estée Lauder have reported falling sales in China as weak consumer confidence and slowing growth takes a toll.",
+      "url": "https://www.businessinsider.com/china-luxury-slump-spreading-consumer-companies-starbucks-apple-nike-mcdonalds-2024-11",
+      "urlToImage": "https://i.insider.com/672ba11f5ec9bfa3d63c1e07?width=1200&format=jpeg",
+      "publishedAt": "2024-11-07T15:17:53Z",
+      "content": "For the better part of this year, China has experienced a slump in the most opulent of sectors. Sales for luxury powerhouses like LVMH, Richemont, and Burberry have fallen in the region that once see… [+3898 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple Consolidating Vision Pro Demo Areas in Stores Amid Rumors of Slowing Sales and Reduced Production",
+      "description": "Apple is planning to consolidate the retail space dedicated to the Apple Vision Pro headset in some of its store locations, Bloomberg's Mark Gurman said today.\n\n\n\n\n\nMost stores have two tables dedicated to the ‌Apple Vision Pro‌, one for display units and one…",
+      "url": "https://www.macrumors.com/2024/11/07/vision-pro-apple-store-consolidation/",
+      "urlToImage": "https://images.macrumors.com/t/CBM1_o_bgzfLUONfFjL3hpdn8es=/1960x/article-new/2024/01/Apple-Vision-Pro-Dual-Loop-Band-Teal-Feature.jpg",
+      "publishedAt": "2024-11-07T19:06:51Z",
+      "content": "Apple is planning to consolidate the retail space dedicated to the Apple Vision Pro headset in some of its store locations, Bloomberg's Mark Gurmansaid today.\r\nMost stores have two tables dedicated t… [+1455 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "RIP, Apple Stickers (Kind Of)",
+      "description": "It's the end of an era (sorta).\n\n\n\n\n\nNearly all of Apple's devices released in 2024 do not come with Apple stickers in the box, including the latest iPad Pro and iPad Air, iPad mini, all iPhone 16 models, Vision Pro, and more. Unboxing videos shared today con…",
+      "url": "https://www.macrumors.com/2024/11/07/rip-apple-stickers-kind-of/",
+      "urlToImage": "https://images.macrumors.com/t/2B-U87F-LcGUh53YlBhryAU3b6M=/1600x/article-new/2024/11/Apple-Stickers.jpg",
+      "publishedAt": "2024-11-07T17:22:19Z",
+      "content": "It's the end of an era (sorta).\r\nNearly all of Apple's devices released in 2024 do not come with Apple stickers in the box, including the latest iPad Pro and iPad Air, iPad mini, all iPhone 16 models… [+762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple Arcade Gains Four New Games",
+      "description": "Apple's subscription gaming service Apple Arcade is being updated with four new games today, including Wheel of Fortune Daily, Drive Ahead! Carcade, Arkanoid vs Space Invaders+, and Texas Hold'em Poker: Pokerist+.\n\n\n\n\n\nWheel of Fortune Daily is modeled after …",
+      "url": "https://www.macrumors.com/2024/11/07/apple-arcade-november-2024-games-2/",
+      "urlToImage": "https://images.macrumors.com/t/_Uccki39mQ6iMZ1tC2TNN4rN03M=/2000x/article-new/2024/11/apple-arcade-arkanoid.jpg",
+      "publishedAt": "2024-11-07T22:54:00Z",
+      "content": "Apple's subscription gaming service Apple Arcade is being updated with four new games today, including Wheel of Fortune Daily, Drive Ahead! Carcade, Arkanoid vs Space Invaders+, and Texas Hold'em Pok… [+1086 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "M4 Macs Now Arriving to Customers in Australia and New Zealand",
+      "description": "It's already Friday, November 8 in Australia and New Zealand, so customers who pre-ordered a new iMac, Mac mini, or MacBook Pro are beginning to receive their orders.\n\n\n\n\n\nApple introduced the new M4 Macs last week, with staggered announcements on Monday, Tue…",
+      "url": "https://www.macrumors.com/2024/11/07/m4-macs-australia-new-zealand/",
+      "urlToImage": "https://images.macrumors.com/t/__wFVa4XlftHrj_Cobj8_AlErug=/2500x/article-new/2024/10/M4-MacBook-Pros-Thumb.jpg",
+      "publishedAt": "2024-11-07T23:21:00Z",
+      "content": "It's already Friday, November 8 in Australia and New Zealand, so customers who pre-ordered a new iMac, Mac mini, or MacBook Pro are beginning to receive their orders.\r\nApple introduced the new M4 Mac… [+1175 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Cops Suspect iOS 18 iPhones Are Communicating to Force Reboots, Making Unlocking Harder",
+      "description": "Law enforcement officials in Detroit, Michigan are warning other police officers about an alleged iPhone change that causes Apple devices stored for forensic examination to spontaneously restart, reports 404 Media.\n\n\n\n\n\niPhones that are undergoing examination…",
+      "url": "https://www.macrumors.com/2024/11/07/ios-18-forcing-reboots-law-enforcement/",
+      "urlToImage": "https://images.macrumors.com/t/MOaEMHS0FZHkkiVGFO-VNfPLQqw=/1600x/article-new/2023/02/iphone-passcode-green.jpg",
+      "publishedAt": "2024-11-07T22:20:40Z",
+      "content": "Law enforcement officials in Detroit, Michigan are warning other police officers about an alleged iPhone change that causes Apple devices stored for forensic examination to spontaneously restart, rep… [+3454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "Samsung Planning Ultra-Thin Galaxy S25 Model to Rival iPhone 17 Air",
+      "description": "Samsung is developing a slim version of its upcoming flagship Galaxy S25 smartphone that could launch in Q2 2025, potentially setting up a direct competition with Apple's rumored iPhone 17 'Air', according to reports from South Korean media and data discovere…",
+      "url": "https://www.macrumors.com/2024/11/07/samsung-ultra-thin-galaxy-s25-iphone-17-air-rival/",
+      "urlToImage": "https://images.macrumors.com/t/WPmbpFs6i0fGU3V-p7vXbsmYAN4=/2250x/article-new/2024/10/iPhone-17-Slim-Feature-Single-Camera-2.5-Redux.jpg",
+      "publishedAt": "2024-11-07T11:48:15Z",
+      "content": "Samsung is developing a slim version of its upcoming flagship Galaxy S25 smartphone that could launch in Q2 2025, potentially setting up a direct competition with Apple's rumored iPhone 17 'Air', acc… [+1967 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "NPR",
+      "title": "Who's sending Trump back to the White House and why?",
+      "description": "In the days leading up to election night, news outlets across the country were predicting a historically close race, one that could take days to call.<br> <br>But as election night progressed, it became clear former President Donald Trump was on a path to vic…",
+      "url": "https://www.npr.org/2024/11/06/1211598222/trump-harris-election-vote-analysis-latino-gender-gap",
+      "urlToImage": "https://media.npr.org/assets/img/2024/11/06/gettyimages-2183219312_wide-a61d8fd2c254baa17675f32dd21bc8131e23a609.jpg?s=1400&c=100&f=jpeg",
+      "publishedAt": "2024-11-07T00:06:44Z",
+      "content": "President-elect Donald Trump is joined on stage with former first lady Melania Trump and son Baron Trump during an election night event at the Palm Beach Convention Center in West Palm Beach, Florida… [+1093 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "Gabriel Erard",
+      "title": "Matter 1.4 es oficial y trae mejoras de conectividad e interoperabilidad muy reclamadas",
+      "description": "Matter 1.4, la nueva versión del estándar para el hogar conectado, ya es oficial y trae varias de las funciones y mejoras que más reclamaban los usuarios. La Connectivity Standards Alliance (CSA) ha lanzado la renovada especificación, de modo que ahora queda …",
+      "url": "http://hipertextual.com/2024/11/matter-1-4-es-oficial-y-trae-varias-mejoras-muy-reclamadas",
+      "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/11/Matter-scaled.jpg?fit=2560%2C1439&quality=70&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T16:10:00Z",
+      "content": "Matter 1.4, la nueva versión del estándar para el hogar conectado, ya es oficial y trae varias de las funciones y mejoras que más reclamaban los usuarios. La Connectivity Standards Alliance (CSA) ha … [+2678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "T3 US/CA"
+      },
+      "author": "Britta O'Boyle",
+      "title": "Apple TV just got an amazing free update that home cinema fans will love",
+      "description": "The public beta for tvOS 18.2 has been released and it brings support for different aspect ratios.",
+      "url": "https://www.t3.com/tech/tvs/apple-tv-just-got-an-amazing-free-update-that-home-cinema-fans-will-love",
+      "urlToImage": "https://media.zenfs.com/en/t3_620/13e7b044d01b6e7e26219e8a7d745904",
+      "publishedAt": "2024-11-07T12:30:00Z",
+      "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\nQuick Summary\r\nThere are already a number of new features for Apple TV with tvOS 18, including … [+2428 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Q13 News Seattle"
+      },
+      "author": "Jim Jensen",
+      "title": "Woman stabbed 8 times in Seattle's Chinatown-International District: SPD",
+      "description": "Police are investigating after a 52-year-old woman was stabbed eight times in Seattle’s Chinatown-International District Thursday morning.",
+      "url": "https://www.q13fox.com/news/woman-stabbed-8-times-seattle",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vH2q5pvGKjGYgzayecfl_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/kcpq_fox_local_articles_135/202c63ab17001cd77691c8718bc97968",
+      "publishedAt": "2024-11-07T18:48:38Z",
+      "content": "SEATTLE - Police are investigating after a 52-year-old woman was stabbed eight times in Seattles Chinatown-International District Thursday morning.\r\nAccording to the Seattle Police Department (SPD), … [+1349 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Cameron Faulkner",
+      "title": "One of SteelSeries’ best wireless headsets is half off at Best Buy",
+      "description": "If you want the best that SteelSeries has to offer in the PC/PlayStation headset space, but understandably don’t want to pay over $300 for its Arctis Nova Pro Wireless, then you’re in luck. The next best thing is the Arctis Pro Wireless, and it’s $139.99 at B…",
+      "url": "https://www.polygon.com/good-deals/475705/steelseries-arctis-pro-wireless-sale-gaming-headset",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/11/arctisprowirelessPS5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2024-11-07T15:20:29Z",
+      "content": "If you want the best that SteelSeries has to offer in the PC/PlayStation headset space, but understandably don’t want to pay over $300 for its Arctis Nova Pro Wireless, then you’re in luck. The next … [+959 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Toussaint Egan, Petrana Radulovic",
+      "title": "Look Back, My Old Ass, Netflix’s Meet Me Next Christmas, and every movie new to streaming this week",
+      "description": "Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Look Back, the critically acclaimed anime film based on Tatsuki Fujimoto’s manga of the sam…",
+      "url": "https://www.polygon.com/entertainment/472236/new-movies-watch-streaming-look-back-meet-me-next-christmas-netflix",
+      "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/11/405286.jpeg?quality=90&strip=all&crop=2.25,0,95.5,100",
+      "publishedAt": "2024-11-07T21:52:32Z",
+      "content": "Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home.\n\nThis week, Look Back, the critically accl… [+6368 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Rubén Andrés",
+      "title": "Warren Buffett no quiere invertir ni en su propia empresa: Hacienda ya le prepara una factura de 20.000 millones de dólares",
+      "description": "Warren Buffett es uno de los inversores más respetados del mundo, y acumula una experiencia a sus espaldas de más de 60 años invirtiendo en empresas. El conocido como 'Oráculo de Omaha' ha obtenido parte su fortuna invirtiendo de forma estratégica en momentos…",
+      "url": "https://www.xataka.com/empresas-y-economia/warren-buffett-no-quiere-invertir-su-propia-empresa-hacienda-le-prepara-factura-20-000-millones-dolares",
+      "urlToImage": "https://i.blogs.es/304c29/warren-buffett/840_560.jpeg",
+      "publishedAt": "2024-11-07T18:15:43Z",
+      "content": "Warren Buffett es uno de los inversores más respetados del mundo, y acumula una experiencia a sus espaldas de más de 60 años invirtiendo en empresas. El conocido como 'Oráculo de Omaha' ha obtenido p… [+4122 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Javier Lacort",
+      "title": "Qualcomm era un fabricante centrado en móviles. Ahora está disparando sus ingresos gracias a los coches",
+      "description": "De ser un gigante de los chips para móviles, Qualcomm se está transformando en una potencia del coche conectado y la IA, con un crecimiento espectacular en sus nuevas líneas de negocio, según sus últimos resultados trimestrales.\n<!-- BREAK 1 -->\nPor qué es im…",
+      "url": "https://www.xataka.com/empresas-y-economia/qualcomm-era-fabricante-centrado-moviles-ahora-esta-disparando-sus-ingresos-gracias-a-coches",
+      "urlToImage": "https://i.blogs.es/184781/image/840_560.jpeg",
+      "publishedAt": "2024-11-07T13:31:13Z",
+      "content": "De ser un gigante de los chips para móviles, Qualcomm se está transformando en una potencia del coche conectado y la IA, con un crecimiento espectacular en sus nuevas líneas de negocio, según sus últ… [+2666 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Javier Pastor",
+      "title": "Trump ha sido reelegido. Este es el impacto que podemos esperar en el mundo de la tecnología",
+      "description": "Donald Trump ha ganado las elecciones presidenciales de EEUU y se convertirá en su presidente número 47 el próximo 20 de enero de 2025. Su anterior mandato ya tuvo impacto claro en el mundo de la tecnología, sobre todo al iniciar la guerra comercial con China…",
+      "url": "https://www.xataka.com/empresas-y-economia/trump-ha-sido-reelegido-este-impacto-que-podemos-esperar-mundo-tecnologia",
+      "urlToImage": "https://i.blogs.es/8056c1/donald-trump-tech/840_560.jpeg",
+      "publishedAt": "2024-11-07T12:01:10Z",
+      "content": "Donald Trump ha ganado las elecciones presidenciales de EEUU y se convertirá en su presidente número 47 el próximo 20 de enero de 2025. Su anterior mandato ya tuvo impacto claro en el mundo de la tec… [+4154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Alberto de la Torre",
+      "title": "El retorno inesperado del botón físico: la industria apostó al \"todo pantalla\" pero expertos y usuarios piden su vuelta",
+      "description": "Si hay un dispositivo electrónico que nos habla de \"cómo somos\" ese es el teléfono móvil. Y si hay una marca que nos da una idea de las tendencias del mercado, esa es Apple. No en vano, es la compañía que más teléfonos inteligentes coloca cada año en el merca…",
+      "url": "https://www.xataka.com/movilidad/retorno-inesperado-boton-fisico-industria-aposto-al-todo-pantalla-expertos-usuarios-piden-su-vuelta",
+      "urlToImage": "https://i.blogs.es/c499ac/volkswagen-id.7-2024-hd-51bd99e41b83b223162e0000818d442f3c111f144/840_560.jpeg",
+      "publishedAt": "2024-11-07T09:00:58Z",
+      "content": "Si hay un dispositivo electrónico que nos habla de \"cómo somos\" ese es el teléfono móvil. Y si hay una marca que nos da una idea de las tendencias del mercado, esa es Apple. No en vano, es la compañí… [+7048 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "María González",
+      "title": "Premios Xataka NordVPN 2024: estos son los finalistas",
+      "description": "Ya tenemos los finalistas a los Premios Xataka NordVPN 2024, unos galardones con los que reconoceremos a los mejores productos tecnológicos de este año. Durante las últimas semanas os hemos pedido a vosotros, nuestros xatakeros y xatakeras, que nos ayudéis a …",
+      "url": "https://www.xataka.com/xataka/premios-xataka-nordvpn-2024-estos-finalistas",
+      "urlToImage": "https://i.blogs.es/988bc3/std-horizontal-premios-xataka-024-v2/840_560.png",
+      "publishedAt": "2024-11-07T15:15:18Z",
+      "content": "Ya tenemos los finalistas a los Premios Xataka NordVPN 2024, unos galardones con los que reconoceremos a los mejores productos tecnológicos de este año. Durante las últimas semanas os hemos pedido a … [+5622 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Kurt Knutsson, CyberGuy Report",
+      "title": "How to easily record phone calls on your iPhone",
+      "description": "Apple has introduced a native call recording feature as part of Apple Intelligence with its release of iOS 18.1. It's easier than ever to document conversations.",
+      "url": "https://www.foxnews.com/tech/how-easily-record-phone-calls-your-iphone",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/2-how-to-easily-record-phone-calls-on-your-iphone.jpg",
+      "publishedAt": "2024-11-07T11:00:24Z",
+      "content": "Remember when recording a phone call on your iPhone felt like trying to solve a Rubik's Cube blindfolded?\r\nWell, those days are officially over. With the release of iOS 18.1, Apple has introduced a n… [+4803 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Apartment Therapy"
+      },
+      "author": "Nikol Slatinska",
+      "title": "Walmart Just Dropped Thousands of Early Black Friday Deals",
+      "description": "Don't wait until after Thanksgiving to snag these.\nREAD MORE...",
+      "url": "https://www.apartmenttherapy.com/walmart-black-friday-deals-2024-37436436",
+      "urlToImage": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/at%2Fhouse%20tours%2F2024%2Foctober%2Fchristina-a%2Ftours-losangeles-christina-a-_27",
+      "publishedAt": "2024-11-07T22:00:00Z",
+      "content": "Black Friday used to be a chaotic weekend fiasco, but nowadays, you can get pretty much all of your discounted shopping done before Thanksgiving even arrives. You just have to look out for retailers … [+744 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Jorge Jimenez",
+      "title": "Apple iMac 2024 Review: A Step in the Right Direction",
+      "description": "The Apple iMac returns with a new chip and a couple of new tricks. However, would it kill Apple to release a 27-inch model already?",
+      "url": "https://gizmodo.com/apple-imac-2024-review-2000521170",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Apple-iMac-2024-4-2.jpg",
+      "publishedAt": "2024-11-07T14:00:36Z",
+      "content": "When the Apple iMac re-emerged last year after a two-year hiatus, I was hit with a wave of nostalgia. One of my favorite computers from my youth had returned. But once the nostalgia wore off, I was l… [+8365 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Sherri L Smith",
+      "title": "Apple Mac Mini 2024 Review: A Button Push Away From Flawless",
+      "description": "The Apple Mac Mini with M4 is half the size of previous models but noticeably more powerful than ever before.",
+      "url": "https://gizmodo.com/apple-mac-mini-2024-review-a-button-push-away-from-flawless-2000521416",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Apple-Mac-Mini-2024-1-e1730947612741.jpg",
+      "publishedAt": "2024-11-07T14:00:59Z",
+      "content": "I had high expectations for this year’s Apple Mac mini. Compared to last year’s offering, the Mac Mini with M4 is nearly flawless. Apple reduced the size of the small form factor system by almost hal… [+10072 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Apple MacBook Pro 14 2024 Review: A Capable Laptop That Plays It Safe",
+      "description": "The MacBook Pro 14 with M4 includes a brighter display and more horsepower, plus it still has the best battery life in the biz.",
+      "url": "https://gizmodo.com/apple-macbook-pro-14-2024-review-like-an-old-friend-who-wont-leave-you-alone-2000521098",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Apple-Macbook-Pro-2024-05.jpg",
+      "publishedAt": "2024-11-07T14:00:52Z",
+      "content": "Months ago, a friend asked me whether he should buy an M3 MacBook Pro on sale or wait for the one with an M4. Hes a video producer and wanted something that would be his mainstay Mac for many years. … [+14541 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Apple MacBook Pro 16 2024 Review: This Is Why You Get the Big Mac",
+      "description": "The MacBook Pro 16 with M4 Pro feels like a powerhouse, even more so against the base M4, but I'm wondering where the hell is WiFi 7?",
+      "url": "https://gizmodo.com/apple-macbook-pro-16-2024-review-this-is-why-you-get-the-big-mac-2000521103",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/MacBook-Pro-16-Laptop.jpg",
+      "publishedAt": "2024-11-07T14:00:30Z",
+      "content": "Apple’s new MacBook Pro 16 with M4 Pro is not carrying the old idiom, whats old is new again. Simply put, whats old is old, whats new is new, and it’s bringing all the baggage from past generations. … [+12275 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Dua Rashid",
+      "title": "AI Has Come for Sweet, Innocent Notepad",
+      "description": "Notepad is getting an AI features that Microsoft claims will help you improve your writing.",
+      "url": "https://gizmodo.com/ai-has-come-for-sweet-innocent-notepad-2000521564",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/microsoft-notepad.jpg",
+      "publishedAt": "2024-11-07T17:34:43Z",
+      "content": "We’re truly living in the age of the AI-fication of everything. A software I last expected to receive AI capabilities, NotePad, just proved me wrong. This one is harder to stomach. Why couldn’t we le… [+2532 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Christine Romero-Chan",
+      "title": "I’ve had the iPhone 16 Pro for over a month. Here’s why I still love it",
+      "description": "I was having some second thoughts about the iPhone 16 Pro, but after using it for over a month, I mostly love it.",
+      "url": "https://www.digitaltrends.com/mobile/one-month-later-i-still-love-my-iphone-16-pro/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/iphone-16-pro-white-revisit.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-11-07T12:30:40Z",
+      "content": "Apple made quite a splash this year with the iPhone 16 lineup. In fact, the base model iPhone 16 appeared to be the star of the show, with phenomenal colors and even more Pro-level features than ever… [+8126 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Bryan M. Wolfe",
+      "title": "There’s new evidence that Samsung is making a Galaxy S25 Slim",
+      "description": "Samsung could announce four Galaxy S25 models in 2025. That fourth phone, the Galaxy S25 Slim is designed to take on Apple's upcoming iPhone 17 Slim.",
+      "url": "https://www.digitaltrends.com/mobile/theres-new-evidence-that-samsung-is-making-a-galaxy-s25-slim/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/01/galaxy-s24-ultra-hand-back.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-11-07T14:55:26Z",
+      "content": "Could the next big smartphone war be about who can make the thinnest device? Increasingly, it’s looking that way.\r\nIndustry reports suggest Samsung is working on an ultrathin version of its upcoming … [+1929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Gal Beckerman",
+      "title": "America’s Daddy Issues",
+      "description": "The appeal of Trump’s paternalism",
+      "url": "https://www.theatlantic.com/culture/archive/2024/11/americas-daddy-issues-trump/680566/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/ko0k_z-MtUIqXRAGN6Zk4sH_Lqs=/0x53:2496x1353/1200x625/media/img/mt/2024/11/GettyImages_2182728325/original.jpg",
+      "publishedAt": "2024-11-07T13:00:00Z",
+      "content": "The last weeks of Donald Trump’s successful campaign for president were a festival of crudeness. In light of this, Tucker Carlson’s warm-up act at a Georgia rally late last month was, if notably cree… [+7021 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Hanna Rosin",
+      "title": "Are We Living in a Different America?",
+      "description": "A postelection conversation with staff writers Anne Applebaum and McKay Coppins",
+      "url": "https://www.theatlantic.com/podcasts/archive/2024/11/are-we-living-in-a-different-america/680565/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/hi3ii2tWkrTcGFXB5GojwhIG2J0=/0x80:4000x2163/1200x625/media/img/mt/2024/11/RA_TrumpsAmerica/original.jpg",
+      "publishedAt": "2024-11-07T12:00:00Z",
+      "content": "<!-----\n\n\n\nConversion time: 0.71 seconds.\n\n\nUsing this HTML file:\n\n1. Paste this output into your source file.\n2. See the notes and action items below regarding this conversion run.\n3. Check the rend… [+33815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Leo Becker",
+      "title": "Besser denn je: MacBook Pro und Mac mini M4 – Analyse und Test | Mac & i-Podcast",
+      "description": "Mit MacBook Pro 2024, dem kleineren Mac mini und dem iMac bringt Apple die M4-Generation unters Volk. Wir diskutieren über Line-up und Erkenntnisse.",
+      "url": "https://www.heise.de/news/Besser-denn-je-MacBook-Pro-und-Mac-mini-M4-Analyse-und-Test-Mac-i-Podcast-10009007.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/3/8/9/6/macs4169-08c35a6efb9049ee.jpg",
+      "publishedAt": "2024-11-07T16:38:00Z",
+      "content": "Die ersten M4-Macs sind da: Mit MacBook Pro, Mac mini und iMac hat Apple jetzt die Hälfte der Mac-Modellreihen auf neuesten Stand gebracht und integriert Thunderbolt 5 in erste Modelle. In den Vorder… [+1218 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Ben Schwan",
+      "title": "App-Intents-API: So soll Siri künftig den Bildschirminhalt lesen",
+      "description": "Ab iOS 18.2 bereitet sich Apple auf die neue \"Onscreen Awareness\" des KI-Assistenzsystems vor. Künftig soll Siri wissen, was Nutzer sehen, um ihnen zu helfen.",
+      "url": "https://www.heise.de/news/App-Intents-API-So-soll-Siri-kuenftig-den-Bildschirminhalt-lesen-10007289.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/2/9/5/8/ai_logo-d9b9d205e65dcfa0.png",
+      "publishedAt": "2024-11-07T13:09:00Z",
+      "content": "Apple hat Details zur App-Nutzung mit einer neuen Siri-Funktion vorgelegt, die es der Sprachassistentin ermöglichen soll, iPhone-Bildschirminhalte auszulesen. Die sogenannte Onscreen Awareness wird m… [+2322 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Johannes Schuster",
+      "title": "heise+ | Mac mini 2024 mit M4 Pro im Test: So flott ist Apples Mini-PC",
+      "description": "Nach 14 Jahren hat Apple dem Mac mini ein neues Gehäuse spendiert. Gleichzeitig stieg durch M4 und M4 Pro die Leistung.",
+      "url": "https://www.heise.de/tests/Mac-mini-2024-mit-M4-Pro-im-Test-So-flott-ist-Apples-Mini-PC-10008749.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/3/7/6/3/1b44afec9b8bad164bc1f41b36d2951e8cc6541f9f9353adcfbaa6671e549ad0-fa57ca7c5eaacc24.jpeg",
+      "publishedAt": "2024-11-07T14:33:00Z",
+      "content": "Inhaltsverzeichnis\r\nAuf einer Grundfläche von 12,7 Zentimetern im Quadrat bringt Apple einen ganzen Rechner mitsamt Netzteil unter und dies sogar optional mit einem Pro-Prozessor. Uns stand ein Mac m… [+1502 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Johannes Schuster",
+      "title": "heise+ | M4 im MacBook Pro im Test: Das können Apples neue Profi-Notebooks",
+      "description": "Erst vor einem Jahr hat Apple die M3-Chips bei den MacBooks eingeführt, nun folgen M4-Prozessoren und matte Display-Optionen. Wie gut sind sie?",
+      "url": "https://www.heise.de/tests/M4-im-MacBook-Pro-im-Test-Das-koennen-Apples-neue-Profi-Notebooks-10008703.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/3/7/3/9/00bf6a5882cd28b0c19d6b6b11b4bf47b649cc4578957d3bb9984deff9a2d2c0-90daadd6049e69d6.jpeg",
+      "publishedAt": "2024-11-07T14:00:00Z",
+      "content": "Inhaltsverzeichnis\r\nVon außen haben sich die MacBooks vor allem darin verändert, als dass nun neben Silber die neue Farbe Space Schwarz statt Space Grau auch beim Einstiegsmodell zur Auswahl steht wi… [+1628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Lukasz Konieczny",
+      "title": "Top 7: Die besten Adapter für Android Auto Wireless im Test",
+      "description": "Wer das Smartphone ohne Kabel mit dem Auto verbinden will, benötigt einen Adapter. Wir zeigen Lösungen von Ottocast, Carlinkit und Motorola für Android Auto Wireless.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-7-die-besten-adapter-fuer-android-auto-wireless-im-test/nv5rxl9#article",
+      "urlToImage": "https://ocdn.eu/pulscms-transforms/1/ATNk9kpTURBXy81NWE4MjU5NTMxOWM1NmNhM2Q1NDM4MGNhZjczNDdhZS5qcGeSlQMAAM0N8M0H15UCzQSwzQJ2w8PeAAGhMAI",
+      "publishedAt": "2024-11-07T19:00:00Z",
+      "content": "Mit dem Ottocast MX 3in1 können Autohalter das Smartphone kabellos per Android Auto und sogar Apple Carplay verbinden. Wie gut der Adapter ist, zeigt der Test.\r\nVORTEILE<ul><li>unterstützt Android Au… [+5701 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Mark Mantel",
+      "title": "Qualcomm knackt 10 Milliarden US-Dollar, Aktie schießt hoch",
+      "description": "Snapdragon-Prozessoren laufen gut. Qualcomm schafft wieder die Gesamtumsätze von 2022 – mit einem stärker werdenden Lizenzgeschäft.",
+      "url": "https://www.heise.de/news/Qualcomm-knackt-10-Milliarden-US-Dollar-Aktie-schiesst-hoch-10008360.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/3/5/5/5/231358710_1bb510d464-2650959580829be4.jpeg",
+      "publishedAt": "2024-11-07T12:51:00Z",
+      "content": "Blendet man den Rechtsstreit mit ARM aus, geht es Qualcomm derzeit rosig. Zum ersten Mal seit dem Jahr 2022 schafft die Firma einen Quartalsumsatz von mehr als 10 Milliarden US-Dollar. Den Großteil e… [+2455 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Berti Kolbow-Lehradt",
+      "title": "Matter: Neue Version 1.4 kombiniert Funknetze und hilft bei der Energiewende​",
+      "description": "Mit der neuen Version von Matter lassen sich WLAN-Router einbinden, Thread-Netze vermaschen sowie Wärmepumpen und Batteriespeicher steuern.​",
+      "url": "https://www.heise.de/news/Matter-1-4-eint-konkurrierende-Funknetze-und-hilft-bei-der-Energiewende-10007636.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/3/1/4/5/asdassda-b92fe71ea57b0762.jpg",
+      "publishedAt": "2024-11-07T13:00:00Z",
+      "content": "Gemäß dem halbjährlichen Turnus hat die Connectivity Standards Alliance (CSA) das Kommunikationsprotokoll Matter um neue Geräte und Funktionen ergänzt. Matter soll die Einrichtung und Bedienung von S… [+2521 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "Apple acquires Pixelmator, iOS 18.2 beta 2, Apple movie glasses",
+      "description": "Benjamin and Chance discuss Apple’s surprise acquisition of Pixelmator, all the new features and changes in the latest OS betas, and the rumors around Apple’s indecision for the future of wearables on your face. \n\n\n\nAnd in Happy Hour Plus, we speculate on wha…",
+      "url": "https://9to5mac.com/2024/11/07/happy-hour-511/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T18:13:40Z",
+      "content": "Benjamin and Chance discuss Apples surprise acquisition of Pixelmator, all the new features and changes in the latest OS betas, and the rumors around Apples indecision for the future of wearables on … [+680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Rumor Replay: MacBook Pro redesign, Apple’s Vision roadmap, and more",
+      "description": "Welcome to Rumor Replay, a new weekly column at 9to5Mac that provides a quick rundown of the most recent Apple product rumors, with my analysis and commentary. Today: two future MacBook Pro models and a big redesign, the Vision roadmap at Apple, 90Hz displays…",
+      "url": "https://9to5mac.com/2024/11/07/rumor-replay-macbook-pro-redesign-apples-vision-roadmap-and-more/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/rumor-replay-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T20:00:00Z",
+      "content": "Welcome to Rumor Replay, a new weekly column at 9to5Mac that provides a quick rundown of the most recent Apple product rumors, with my analysis and commentary. Today: two future MacBook Pro models an… [+4125 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Arin Waichulis",
+      "title": "Security Bite: Mechanics of Apple CarPlay",
+      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specifi…",
+      "url": "https://9to5mac.com/2024/11/07/security-bite-mechanics-of-apple-carplay/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/2024-mazda-cx5-carplay-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T23:53:09Z",
+      "content": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform.Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to mana… [+3628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "Belkin debuts compact Travel Bag for Apple Vision Pro",
+      "description": "Following the launch of the Belkin Head Strap earlier this week, Belkin today is further expanding its accessory lineup for Apple Vision Pro. The company has unveiled its new Belkin Travel Bag as a “compact and lightweight” alternative to Apple’s own Travel C…",
+      "url": "https://9to5mac.com/2024/11/07/belkin-debuts-compact-travel-bag-for-apple-vision-pro/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/belkin-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T21:18:57Z",
+      "content": "Following the launch of the Belkin Head Strap earlier this week, Belkin today is further expanding its accessory lineup for Apple Vision Pro. The company has unveiled its new Belkin Travel Bag as a “… [+1598 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "macOS Sequoia 15.2 upgrades AirPlay privacy",
+      "description": "The latest macOS Sequoia 15.2 beta upgrades the experience of using AirPlay to share content from your Mac to your Apple TV. Now, there’s a new option to only share a specific window or app when using AirPlay from your Mac to Apple TV. \n\n\n\n more…",
+      "url": "https://9to5mac.com/2024/11/07/macos-sequoia-airplay-mac/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/sequoia-airplay.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T20:23:42Z",
+      "content": "The latest macOS Sequoia 15.2 beta upgrades the experience of using AirPlay to share content from your Mac to your Apple TV. Now, there’s a new option to only share a specific window or app when usin… [+859 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Apple devices may soon learn to ignore the ‘Hey Siri’ command heard on TV ads",
+      "description": "Apple introduced the “Hey Siri” command with iOS 8 to let users easily interact with the virtual assistant without having to press any buttons. However, over the years, this has resulted in Siri being mistakenly triggered when the command is spoken on a TV ad…",
+      "url": "https://9to5mac.com/2024/11/07/apple-tv-ads-hey-siri/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/HomePod-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T19:53:45Z",
+      "content": "Apple introduced the Hey Siri command with iOS 8 to let users easily interact with the virtual assistant without having to press any buttons. However, over the years, this has resulted in Siri being … [+1638 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Some Apple Stores will pilot reduced Vision Pro presence as M4 Macs launch",
+      "description": "Tomorrow is Apple’s big launch day for the first M4 Macs. And reportedly, in sync with those new debuts, the company will also start piloting a scaled back Vision Pro presence in some Apple Stores.\n\n\n\n more…",
+      "url": "https://9to5mac.com/2024/11/07/some-apple-stores-will-pilot-reduced-vision-pro-presence-upon-m4-mac-launch/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/Vision-Pro-pre-orders-open-today-in-five-more-countries.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T19:02:05Z",
+      "content": "Tomorrow is Apples big launch day for the first M4 Macs. And reportedly, in sync with those new debuts, the company will also start piloting a scaled back Vision Pro presence in some Apple Stores.\r\nM… [+1137 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Apple-backed Matter adds new smart home device types, better cross-platform experience, more",
+      "description": "The Apple-backed group that oversees the Matter smart device standard has launched its latest big update. Matter 1.4 debuts today with a variety of improvements that further advance smart home capabilities. Here’s what’s new.\n\n\n\n more…",
+      "url": "https://9to5mac.com/2024/11/07/apple-backed-matter-adds-new-smart-home-device-types-better-cross-platform-experience-more/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/home-app-homekit.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T13:00:00Z",
+      "content": "The Apple-backed group that oversees the Matter smart device standard has launched its latest big update. Matter 1.4 debuts today with a variety of improvements that further advance smart home capabi… [+2059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Benjamin Mayo",
+      "title": "All your iPhone notes gone in Apple Notes app? Here’s the fix",
+      "description": "Some iPhone users are reporting a scary bug with the Notes app on iPhone. After agreeing to new iCloud terms and conditions as prompted by the system, the Notes app appears to disconnect from iCloud and instead presents users with a screen of zero notes, as i…",
+      "url": "https://9to5mac.com/2024/11/07/iphone-notes-gone-deleted-apple-notes-app-heres-the-fix/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/apple-notes-gone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T11:19:54Z",
+      "content": "Some iPhone users are reporting a scary bug with the Notes app on iPhone. After agreeing to new iCloud terms and conditions as prompted by the system, the Notes app appears to disconnect from iCloud … [+2001 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Justin Kahn",
+      "title": "Early Black Friday deals: AirPods Pro 2 $170, AirPods 4 $114, M3 MacBook Air $290 off original price, Jet Black Series 10, more",
+      "description": "The early Black Friday deals are flying as Best Buy has now launched its new weekly doorbusters sale alongside a particularly notable 1-day offer on AirPods Pro 2 down at $170. Now within $1 of the best price all year, you can score Apple’s flagship buds at $…",
+      "url": "https://9to5mac.com/2024/11/07/deals-airpods-pro-2-airpods-4-jet-black-series-10/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/Apple-deals-AirPods-Pro-2-Apple-Watch-Series-10-MacBook-Air.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T16:36:49Z",
+      "content": "The early Black Friday deals are flying as Best Buy has now launched its new weekly doorbusters sale alongside a particularly notable 1-day offer on AirPods Pro 2 down at $170. Now within $1 of the b… [+5312 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Microsoft just learned its lesson about overcharging for AI features",
+      "description": "Apple is just getting started with building AI into its various software platforms. However, one of its chief competitors, Microsoft, just learned an important lesson the company could take to heart: most consumers aren’t willing to pay very much for AI featu…",
+      "url": "https://9to5mac.com/2024/11/07/microsoft-just-learned-its-lesson-about-overcharging-for-ai-features/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/microsoft-copilot-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T16:11:54Z",
+      "content": "Apple is just getting started with building AI into its various software platforms. However, one of its chief competitors, Microsoft, just learned an important lesson the company could take to heart:… [+2166 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Seth Kurkowski",
+      "title": "9to5Mac Daily: November 7, 2024 – iCloud glitches, EU investigations",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\n\n\n\nSponsored by CardPointers:…",
+      "url": "https://9to5mac.com/2024/11/07/daily-november-7-2024/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T21:28:51Z",
+      "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+867 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Toys"
+      },
+      "author": "9to5Toys",
+      "title": "Nomad early Black Friday sale now live! 20% off all new releases, Find My tracking card, leather iPhone 16 cases, more",
+      "description": "You know it’s November and that Black Friday is on the way when a brand like Nomad launches a sale like this. One of our absolute favorite Apple accessory brands, Nomad is launching a seriously rare sale that is offering up a straight 20% in savings on all fu…",
+      "url": "http://9to5toys.com/2024/11/07/nomad-early-black-friday-sale-live/",
+      "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2024/11/Nomad-early-Black-Friday-sale-now-live.jpg?resize=1200%2C628&ssl=1",
+      "publishedAt": "2024-11-07T17:09:05Z",
+      "content": "You know its November and that Black Friday is on the way when a brand like Nomad launches a sale like this. One of our absolute favorite Apple accessory brands, Nomad is launching a seriously rare s… [+2842 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Playlist cover artwork app ‘Denim’ now integrates with Spotify",
+      "description": "As previously covered here on 9to5Mac, Denim is a powerful app that provides tools for creating and customizing cover artwork for playlist. Following an update in August that added many new options to the app, Denim is now getting another update – this time w…",
+      "url": "https://9to5mac.com/2024/11/07/playlist-cover-artwork-denim-spotify/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/denim-app-spotify.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T22:16:21Z",
+      "content": "As previously covered here on 9to5Mac, Denim is a powerful app that provides tools for creating and customizing cover artwork for playlist. Following an update in August that added many new options t… [+1411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "M4 MacBook Pro, Mac mini, iMac reviews: Impressive upgrades, even the base models",
+      "description": "The first reviews for the M4 MacBook Pro, Mac mini, and iMac have just dropped. Apple’s first M4 Macs arrive in stores and users’ hands tomorrow. And based on these early impressions, there should be a lot of very satisfied customers soon.\n\n\n\n more…",
+      "url": "https://9to5mac.com/2024/11/07/m4-macbook-pro-mac-mini-imac-reviews-impressive-upgrades-even-the-base-models/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-mac-lineup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T14:34:16Z",
+      "content": "The first reviews for the M4 MacBook Pro, Mac mini, and iMac have just dropped. Apples first M4 Macs arrive in stores and users hands tomorrow. And based on these early impressions, there should be a… [+3961 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Netflix now lets you share screenshots of your favorite moments from a movie or show",
+      "description": "Pretty much every video streaming platform has DRM-protected content, which aims to prevent users from distributing copyrighted material. Unfortunately, this also means that users can’t easily share screenshots of specific moments of something they’re watchin…",
+      "url": "https://9to5mac.com/2024/11/07/netflix-screenshots-movie-show-moments/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/netflix-moments-screenshot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-11-07T22:45:17Z",
+      "content": "Pretty much every video streaming platform has DRM-protected content, which aims to prevent users from distributing copyrighted material. Unfortunately, this also means that users can’t easily share … [+1585 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Patrick Hearn",
+      "title": "iPhones usually kick every Android flagship off the top 10 list in Q3, but not this year",
+      "description": "The Galaxy S24 continues to hold its position, even against some seriously stiff competition",
+      "url": "https://www.androidpolice.com/global-phone-sales-q3-2024-samsung-galaxy-s24-top-10/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/samsung-galaxy-s24-fe-1.jpg",
+      "publishedAt": "2024-11-07T21:40:10Z",
+      "content": "Key Takeaways\r\n<ul><li> Apple's iPhone models dominated the global smartphone market in the third quarter of 2024, securing the top few spots in sales rankings as usual. </li><li> Samsung's Galaxy S2… [+3139 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Nathan Drescher",
+      "title": "New Matter 1.4 aims to make your smart devices last longer",
+      "description": "Matter 1.4 improves battery life",
+      "url": "https://www.androidpolice.com/matter-1-4-battery-life/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/10/gemini-for-home-automations.jpg",
+      "publishedAt": "2024-11-07T13:00:10Z",
+      "content": "Key Takeaways\r\n<ul><li>\r\n The latest Matter 1.4 protocol reduces drain on smart home devices' batteries.\r\n </li><li>\r\n The update includes new tools to manage large smart devices such as water heater… [+2515 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Genbeta.com"
+      },
+      "author": "Bárbara Bécares",
+      "title": "Warren Buffett vendió la mitad de sus acciones de Apple. Ha ganado tanto que pagará impuestos por valor de los ingresos de Spotify",
+      "description": "Warren Buffett redujo su participación en Apple a más de la mitad, lo que le reportó una ganancia inmensa. A más ganancias, más impuestos y se ha sabido que ahora pagará tantos impuestos como casi son los ingresos anuales de Spotify (unos 15 millones de dólar…",
+      "url": "https://www.genbeta.com/actualidad/warren-buffett-vendio-mitad-sus-acciones-apple-ha-ganado-que-pagara-impuestos-valor-ingresos-spotify",
+      "urlToImage": "https://i.blogs.es/8fbe11/giorgio-trovato-oxwmpne_7kw-unsplash/840_560.jpeg",
+      "publishedAt": "2024-11-07T11:07:05Z",
+      "content": "Warren Buffett redujo su participación en Apple a más de la mitad, lo que le reportó una ganancia inmensa. A más ganancias, más impuestos y se ha sabido que ahora pagará tantos impuestos como casi so… [+2707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Genbeta.com"
+      },
+      "author": "Antonio Sabán",
+      "title": "Pensaba que Control + V era imprescindible hasta que aprendí este atajo de teclado poco conocido con el que ahorro mucho tiempo",
+      "description": "Quienes trabajamos delante del ordenador y le echamos horas, vamos depurando nuestros hábitos y manejo para agilizar nuestras tareas y hacer más con menos. Uno de los trucos imprescindibles para ir más rápido son los atajos de teclado, pero no todos son igual…",
+      "url": "https://www.genbeta.com/paso-a-paso/pensaba-que-control-v-era-imprescindible-hasta-que-aprendi-este-atajo-de-teclado-poco-conocido-con-el-que-ahorro-mucho-tiempo",
+      "urlToImage": "https://i.blogs.es/d72bab/martin-garrido-cvupic1cbd4-unsplash/840_560.jpeg",
+      "publishedAt": "2024-11-07T13:01:10Z",
+      "content": "Quienes trabajamos delante del ordenador y le echamos horas, vamos depurando nuestros hábitos y manejo para agilizar nuestras tareas y hacer más con menos. Uno de los trucos imprescindibles para ir m… [+2197 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Justin Talbot Zorn, Bettina Warburg",
+      "title": "Rainwater Could Help Satisfy AI’s Water Demands",
+      "description": "A few dozen ChatGPT queries cost a bottle’s worth of water. Tech firms should consider simpler solutions, like harvesting rainwater, to meet AI’s needs",
+      "url": "https://www.scientificamerican.com/article/rainwater-could-help-satisfy-ais-water-demands/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/5fa237dbe746ed9a/original/water_droplet.jpg?m=1730912149.286&w=1200",
+      "publishedAt": "2024-11-07T13:00:00Z",
+      "content": "In late September Microsoft announced that it had reached a deal to reopen the Three Mile Island nuclear plant to power its growing network of data centers. Reviving the plant, home to a partial melt… [+6942 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tim.blog"
+      },
+      "author": "Tim Ferriss",
+      "title": "Derren Brown — A Master Mentalist on Magic, Mind Reading, Ambition, Stoicism, Religion, and MoreDerren Brown (#776)",
+      "description": "Interview with Derren Brown on The Tim Ferriss Show podcast!\nThe post Derren Brown — A Master Mentalist on Magic, Mind Reading, Ambition, Stoicism, Religion, and MoreDerren Brown (#776) appeared first on The Blog of Author Tim Ferriss.",
+      "url": "https://tim.blog/2024/11/07/derren-brown/",
+      "urlToImage": "https://149346886.v2.pressablecdn.com/wp-content/uploads/2024/11/Derren-Brown-scaled.jpg",
+      "publishedAt": "2024-11-07T15:45:11Z",
+      "content": "“Gather yourself afresh.”Derren Brown\r\nDerren Brown (@derrenbrown) is a psychological illusionist who can predict, suggest, and even control human behavior. Starting his TV career with shows such as … [+12621 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gear Patrol"
+      },
+      "author": "Tbowe",
+      "title": "Apple’s Entry-Level Mac Is Almost Perfect. It’s Only Missing One Thing",
+      "description": "Apple's M4 Mac Mini is a true miniature powerhouse.",
+      "url": "https://www.gearpatrol.com/tech/apple-m4-mac-mini-review/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yIo9sX4Vy8TKqpFs9xc7RQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gear_patrol_593/39f2e7f86b431735d4c5f096342e884b",
+      "publishedAt": "2024-11-07T20:58:36Z",
+      "content": "Apples $599 M4 Mac Mini is a super tiny powerhouse.\r\nEvery product is carefully selected by our editors. If you buy from a link, we may earn a commission. Learn more\r\nAdmittedly, I have a soft spot f… [+5556 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ben Werschkul",
+      "title": "Jay Powell says Donald Trump couldn't fire him even if he tried",
+      "description": "President-elect Donald Trump has sent mixed signals for years on whether he would fire or demote Jerome Powell. But Powell made it clear Thursday that he...",
+      "url": "https://finance.yahoo.com/news/jay-powell-says-donald-trump-couldnt-fire-him-even-if-he-tried-203952244.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dS_U2qED42T.Op.yCwnjxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2020-02/efa66890-4d0f-11ea-beb9-8d86f91080f9",
+      "publishedAt": "2024-11-07T20:39:52Z",
+      "content": "President-elect Donald Trump has sent mixed signals for years on whether he would aim to fire or demote Fed Chair Jerome Powell when he reenters the Oval Office next year.\r\nBut Powell himself laid do… [+5038 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Andrew Orr)",
+      "title": "On-again off-again: Apple Ring project may not be dead",
+      "description": "The long-rumored Apple Ring continues to generate buzz as industry insiders speculate on its potential to reshape health tech, despite uncertainty around its release.Samsung's Galaxy RingWearable technology has evolved rapidly, with smartwatches and fitness t…",
+      "url": "https://appleinsider.com/articles/24/11/07/on-again-off-again-apple-ring-project-may-not-be-dead",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61680-127564-60325-124016-samsunggalaxyring-xl-xl.jpg",
+      "publishedAt": "2024-11-07T17:07:10Z",
+      "content": "The long-rumored Apple Ring continues to generate buzz as industry insiders speculate on its potential to reshape health tech, despite uncertainty around its release.\r\nWearable technology has evolved… [+3007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Andrew Orr)",
+      "title": "Apple makes room for new Macs by rethinking retail Vision Pro demo stations",
+      "description": "Apple is set to streamline its retail displays, making way for new Mac models by downgrading the Apple Vision Pro demo experience.Apple Vision ProStarting November 8, Apple will pilot a revised store layout in select retail locations, merging the Vision Pro d…",
+      "url": "https://appleinsider.com/articles/24/11/07/apple-makes-room-for-new-macs-by-rethinking-retail-vision-pro-demo-stations",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61684-127572-53509979557_05ba5228d5_k-xl.jpg",
+      "publishedAt": "2024-11-07T20:39:52Z",
+      "content": "Apple is set to streamline its retail displays, making way for new Mac models by downgrading the Apple Vision Pro demo experience.\r\nStarting November 8, Apple will pilot a revised store layout in sel… [+1862 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Andrew O'Hara)",
+      "title": "New Matter 1.4 spec supports more device types & improvements for Apple Home",
+      "description": "The Connectivity Standards Alliance has finalized the Matter 1.4 spec, releasing it to accessory makers and platforms like Apple Home with several new device types and improvements.Matter continues to improve with its latest updateThe Connectivity Standards A…",
+      "url": "https://appleinsider.com/articles/24/11/07/new-matter-14-spec-supports-more-device-types-improvements-for-apple-home",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61669-127547-60835-125268-Nest-Thermostat-in-Home-App-xl-xl.jpg",
+      "publishedAt": "2024-11-07T13:00:10Z",
+      "content": "The Connectivity Standards Alliance has finalized the Matter 1.4 spec, releasing it to accessory makers and platforms like Apple Home with several new device types and improvements.\r\nThe Connectivity… [+2214 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "MacBook Air with OLED reportedly delayed until 2028",
+      "description": "A new supply chain report claims that Apple has pushed back adding an OLED screen to the MacBook Air, previously rumored to arrive in 2027.Apple's current MacBook AirIt's been expected that Apple would bring an OLED screen to the MacBook Air for some time, an…",
+      "url": "https://appleinsider.com/articles/24/11/07/macbook-air-with-oled-reportedly-delayed-until-2028",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61674-127550-000-lede-MacBook-Air-xl.jpg",
+      "publishedAt": "2024-11-07T12:02:07Z",
+      "content": "A new supply chain report claims that Apple has pushed back adding an OLED screen to the MacBook Air, previously rumored to arrive in 2027.\r\nIt's been expected that Apple would bring an OLED screen t… [+2033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Andrew O'Hara)",
+      "title": "Testing out Mac ultra wide display mirror on Apple Vision Pro",
+      "description": "You can finally mirror your Mac to Apple Vision Pro with new wide and ultra wide options. We updated to the latest beta so we could test it out.You can soon mirror your Mac as an ultra wide display to Vision ProThe new mirroring options arrive as part of visi…",
+      "url": "https://appleinsider.com/articles/24/11/07/testing-out-mac-ultra-wide-display-mirror-on-apple-vision-pro",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61667-127537-Ultra-Wide-on-Beach-xl.jpg",
+      "publishedAt": "2024-11-07T13:15:57Z",
+      "content": "You can finally mirror your Mac to Apple Vision Pro with new wide and ultra wide options. We updated to the latest beta so we could test it out.\r\nThe new mirroring options arrive as part of visionOS … [+3078 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "M4 MacBook Pro review roundup: fantastically fast -- but no real surprises",
+      "description": "The first reviews are in for Apple's new M4 MacBook Pro, and they all enthuse about the performance and the battery life, but some regret that there's no striking redesign.The 14-inch MacBook ProApple announced the new M4 MacBook Pro in its week of Mac announ…",
+      "url": "https://appleinsider.com/articles/24/11/07/m4-macbook-pro-review-roundup-fantastically-fast----but-no-real-surprises",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61634-127397-000-14-inch-MacBook-Pro-xl.jpg",
+      "publishedAt": "2024-11-07T14:57:38Z",
+      "content": "The first reviews are in for Apple's new M4 MacBook Pro, and they all enthuse about the performance and the battery life, but some regret that there's no striking redesign.\r\nApple announced the new M… [+3215 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Amber Neely)",
+      "title": "iMac review roundup: good performance, good price -- and great colors",
+      "description": "Apple's new M4 24-inch iMac shows that the all-in-one desktop computer still has a loyal fanbase, with every reviewer also relishing the more vibrant colors of the new model.M4 24-inch iMac - Image credit: AppleApple hosted a \"week of exciting announcements\" …",
+      "url": "https://appleinsider.com/articles/24/11/07/imac-review-roundup-good-performance-good-price----and-great-colors",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61551-127161-m4imac-xl.jpg",
+      "publishedAt": "2024-11-07T15:14:05Z",
+      "content": "Apple's new M4 24-inch iMac shows that the all-in-one desktop computer still has a loyal fanbase, with every reviewer also relishing the more vibrant colors of the new model.\r\nApple hosted a \"week of… [+4694 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Marko Zivkovic)",
+      "title": "iPhones stored for forensic analysis unexpectedly reboot, causing problems for police",
+      "description": "Multiple iPhone units stored for forensic analysis have rebooted themselves, causing concern among law enforcement officials that Apple has a new security feature.iPhones stored for forensic analysis have reportedly begun rebooting themselves.The phones in qu…",
+      "url": "https://appleinsider.com/articles/24/11/07/iphones-stored-for-forensic-analysis-unexpectedly-reboot-causing-problems-for-officials",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61685-127576-60955-125569-59127-120678-malware-xl-xl-xl.jpg",
+      "publishedAt": "2024-11-07T22:42:28Z",
+      "content": "Multiple iPhone units stored for forensic analysis have rebooted themselves, causing concern among law enforcement officials that Apple has a new security feature.\r\nThe phones in question had a few t… [+3513 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Christine McKee)",
+      "title": "Early Black Friday deals: save up to $300 on every M4 MacBook Pro 14-inch & 16-inch",
+      "description": "Early Black Friday deals are in effect on Apple's 2024 MacBook Pro M4, with every configuration — retail and CTO — eligible for a coupon discount.Save up to $300 on Apple's new MacBook Pro M4 - Image credit: AppleUnlock savings of up to $300 off the configura…",
+      "url": "https://appleinsider.com/articles/24/11/07/early-black-friday-deals-save-up-to-300-on-every-m4-macbook-pro-14-inch-16-inch",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61679-127562-m4-macbook-pro-coupon-xl.jpg",
+      "publishedAt": "2024-11-07T15:57:05Z",
+      "content": "Early Black Friday deals are in effect on Apple's 2024 MacBook Pro M4, with every configuration — retail and CTO — eligible for a coupon discount.\r\nUnlock savings of up to $300 off the configuration … [+1570 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Malcolm Owen)",
+      "title": "Daughter freezes out dad, after her iPhone was entombed in an ice skating rink",
+      "description": "An iPhone has been frozen under the surface of an ice rink for about two months, after a worker slipped up and left his understandably angry daughter's mobile device on the floor.iPhone in an ice rink - Image credit: Steve Hubbard/BBCSkaters at an ice rink in…",
+      "url": "https://appleinsider.com/articles/24/11/07/daughter-freezes-out-dad-after-her-iphone-was-entombed-in-an-ice-skating-rink",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61677-127561-iphoneicebbc-xl.jpg",
+      "publishedAt": "2024-11-07T15:01:15Z",
+      "content": "An iPhone has been frozen under the surface of an ice rink for about two months, after a worker slipped up and left his understandably angry daughter's mobile device on the floor.\r\nSkaters at an ice … [+2053 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Malcolm Owen)",
+      "title": "M4 Mac mini review roundup: Pint-sized powerhouse that won't break the bank",
+      "description": "Apple's overhaul of the Mac mini with M4 has been warmly received by reviewers, with many highlighting how it's one of the best values you can get right now — provided you avoid those pricey upgrades.M4 Mac miniApple's introduction of the New Mac mini on Octo…",
+      "url": "https://appleinsider.com/articles/24/11/07/m4-mac-mini-review-roundup-pint-sized-powerhouse-that-wont-break-the-bank",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61635-127399-61456-127207-newmacmini1-xl-xl.jpg",
+      "publishedAt": "2024-11-07T15:35:24Z",
+      "content": "Apple's overhaul of the Mac mini with M4 has been warmly received by reviewers, with many highlighting how it's one of the best values you can get right now — provided you avoid those pricey upgrades… [+5272 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Wesley Hilliard)",
+      "title": "Bluetti AC500 & B300S review: upgraded portable power station to get you through disasters",
+      "description": "The Bluetti AC500 and B300S are an evolution of its powerhouse portable power station with a 5,000W inverter and 3,072Wh battery, ready to keep your lights on when the grid can't.Bluetti AC500 & B300S portable power stationIf you've been paying close attentio…",
+      "url": "https://appleinsider.com/articles/24/11/07/bluetti-ac500-b300s-review-upgraded-portable-power-station-to-get-you-through-disasters",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61253-127469-Bluetti-1-xl.jpg",
+      "publishedAt": "2024-11-07T03:48:23Z",
+      "content": "The Bluetti AC500 and B300S are an evolution of its powerhouse portable power station with a 5,000W inverter and 3,072Wh battery, ready to keep your lights on when the grid can't.\r\nIf you've been pay… [+9902 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Andrew Orr)",
+      "title": "How to fix iPhone Notes disappearing after iCloud terms & conditions update",
+      "description": "When iPhone users accepted new iCloud terms, some were shocked to see all their Notes disappear from the app. Here's how to get them back.Apple Notes on iPhoneA recent bug affecting Apple's Notes app has left some iPhone users concerned after their notes appe…",
+      "url": "https://appleinsider.com/inside/ios-18/tips/how-to-fix-iphone-notes-disappearing-after-icloud-terms-conditions-update",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61681-127569-46002-89540-000-lead-Notes-xl-xl.jpg",
+      "publishedAt": "2024-11-07T19:25:45Z",
+      "content": "When iPhone users accepted new iCloud terms, some were shocked to see all their Notes disappear from the app. Here's how to get them back.\r\nA recent bug affecting Apple's Notes app has left some iPho… [+2165 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Andrew Orr)",
+      "title": "Apple's iPhone 15 led sales globally in mid-2024 with Samsung close behind",
+      "description": "Apple's iPhone 15 soared to the top of global smartphone sales in 2024, marking a new wave of demand for premium tech and flashy features.iPhone 15Counterpoint Research shows that Apple's iPhone 15 and Pro counterparts topped global sales in the third quarter…",
+      "url": "https://appleinsider.com/articles/24/11/07/apples-iphone-15-led-sales-globally-in-mid-2024-with-samsung-close-behind",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61675-127552-53248479958_5fa9355144_k-xl.jpg",
+      "publishedAt": "2024-11-07T13:52:22Z",
+      "content": "Apple's iPhone 15 soared to the top of global smartphone sales in 2024, marking a new wave of demand for premium tech and flashy features.\r\nCounterpoint Research shows that Apple's iPhone 15 and Pro … [+3191 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abduzeedo.com"
+      },
+      "author": "abduzeedo",
+      "title": "GitHub x BUCK: Crafting a Dynamic Visual Identity for Universe ’24",
+      "description": "GitHub x BUCK: Crafting a Dynamic Visual Identity for Universe ’24\n \n\n\n abduzeedo1107—24\n\n Learn how BUCK redefined branding and visual identity for GitHub Universe ’24 with monumental design inspired by code.\r\n\nThe annual GitHub Universe event is a celebrati…",
+      "url": "https://abduzeedo.com/node/88658",
+      "urlToImage": null,
+      "publishedAt": "2024-11-07T13:44:34Z",
+      "content": "Learn how BUCK redefined branding and visual identity for GitHub Universe 24 with monumental design inspired by code.\r\nThe annual GitHub Universe event is a celebration of innovation, bringing togeth… [+5772 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macworld"
+      },
+      "author": "Karen Haslam",
+      "title": "iPad mini (A17 Pro) vs iPad (10th gen)",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nApple’s 10th-generation iPad was introduced in October 2022. It gained a new colorful design with no Home button, USB-C instead of Lightning, a better camera, and a larger screen (10.9 inches up from 10.2 inches).\r\n\n\n\n\nThe iPad mini was updat…",
+      "url": "https://www.macworld.com/article/668134/ipad-mini-vs-ipad.html",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2024/11/ipad-ipad-mini-2.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2024-11-07T18:30:38Z",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nApple’s 10th-generat… [+10489 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "小暮ひさのり",
+      "title": "囲んで消せる、iPhone版「消しゴムマジック」のやり方",
+      "description": "Image:MediaWhaleStock/Shutterstock.comせっかく雰囲気のいい写真が撮れたのに！と、写真に邪魔なものが映り込んでしまった…。なんてこともありますよね。時間に余裕があれば「ごめんもう一度」と撮り直してもいいんですが、それ、後から編集でなかったことにできます。iOS18.1では一部のiPhoneで「クリーンアップツール」が利用できるようになったのでこちらを使えばOK。",
+      "url": "https://www.gizmodo.jp/2024/11/ios18-1-clean-up-tool.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/11/07/20241107_thum_photo.png?w=1280&h=630&f=jpg",
+      "publishedAt": "2024-11-07T10:00:00Z",
+      "content": "iOS18.1iPhoneOK Apple\r\nImage: \r\nOK\r\nApple IntelligenceiPhoneiPhone 15 ProiPhone 15\r\niPhoneAI\r\nSource: Apple"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "そうこ",
+      "title": "EUの主張「Apple Pencilの独自機能、他社に開放してちょーだい」",
+      "description": "Image:AppleiPadユーザーなら使用している人も多いだろうApplePencil。Appleで揃えている、このデザインが好きという人はさておき、純正ならではの機能が目当てで使っている人も少なくないはず。一部のiPadとApplePencilで利用できる、ペン先がディスプレイに触れる前にツールの正確な向きを見ることができるホバー機能はその1つ。でも、もしサードパーティ製のスタイラスペンでも",
+      "url": "https://www.gizmodo.jp/2024/11/apple_pencil_eu.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/11/06/hero__z7kty0msgsya_large.jpg?w=1280&h=630&f=jpg",
+      "publishedAt": "2024-11-07T09:00:00Z",
+      "content": "iPadApple PencilAppleiPadApple Pencil1\r\nEUAppleiPad OS\r\nEUDMAiPadOSiPadOS\r\nApple Pencil\r\niPadOS\r\nAppleAppleOS\r\nEUAppleUSB-C\r\nEUAppleApple\r\nSource: Notebook"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "湯木進悟",
+      "title": "M4 Max、最新のCore Ultra 9やRyzen 9と比べてもブッチギリのベンチマークスコアを叩き出す",
+      "description": "Image:AppleM4Maxのスコアは記事の終盤に。Apple（アップル）のSoC、最新M4チップシリーズを搭載してリニューアルされたMacBookProシリーズ。より高性能なM4ProやM4Maxチップも選べるようになっています。このほどTechSpotは、どれほど強力性能かを検証すべく、Geekbench6のベンチマークスコアでチェックしてみた実態を公表しました。M4Proのシングルコア性",
+      "url": "https://www.gizmodo.jp/2024/11/m4-max-benchmark-score.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/11/07/Apple-M4-chip-series-hero_big.jp.jpg?w=1280&h=630&f=jpg",
+      "publishedAt": "2024-11-07T12:30:00Z",
+      "content": "M4 Max\r\nAppleSoCM4MacBook Pro\r\nM4 ProM4 MaxTechSpotGeekbench 6\r\nM4 Pro\r\nM4 ProGeekbench 63,925\r\nIntelCPUCore Ultra 9 285K3,450M4 Pro\r\nAMDCPURyzen 9 9950X3,359M4 Pro\r\nM4 Pro4.5GHzCore Ultra 9 285KRyze… [+338 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "そうこ",
+      "title": "米大統領選でトランプ氏勝利：テック企業CEOが続々と「お祝い」コメント",
+      "description": "IllustrationgeneratedbyMidjourneybasedonaphotobyGizmodoUS.2024年アメリカ大統領選挙は、ドナルド・トランプ氏の勝利で幕を閉じました。選挙人の獲得数だけでなく、投票数でも勝利。来年、トランプ氏は第47代米国大統領として、再びホワイトハウスに戻ってきます。規約や経済に大きな影響を与える政治のトップ。大手テック業界のトップたちも、つぎつぎと新大",
+      "url": "https://www.gizmodo.jp/2024/11/big-tech-is-going-to-take-ass-kissing-to-new-heights.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/11/07/1.png?w=1280&h=630&f=jpg",
+      "publishedAt": "2024-11-07T13:00:00Z",
+      "content": "202447\r\nX\r\nIt is morning in America again pic.twitter.com/GNTE0cUWoc\r\n Elon Musk (@elonmusk) November 6, 2024\r\n12000SNS\r\nAmazon\r\nBig congratulations to our 45th and now 47th President on an extraordi… [+1248 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Nelson Aguilar",
+      "title": "Apple Releases First iOS 18.2 Public Beta With New Apple Intelligence Features. How to Download It",
+      "description": "The iOS 18.2 public beta brings new Apple Intelligence features to the iPhone, including writing tools, image playground, genmoji, visual intelligence and more.",
+      "url": "https://www.cnet.com/tech/services-and-software/apple-releases-first-ios-18-2-public-beta-with-new-apple-intelligence-features-how-to-download-it/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ccff46661009f6fd2ab65cab9f3d0c8aad4fc66d/hub/2024/06/10/4e6ebf7f-b56b-4914-997c-f0dea914999c/screenshot-2024-06-10-at-10-17-46am.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-11-07T18:22:00Z",
+      "content": "Apple has released iOS 18.2 beta to the public today. The release brings new Apple Intelligence features to the masses, and not just early adopters. However, you can download it before then.\r\nThis iO… [+3883 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Jeff Carlson",
+      "title": "Apple Intelligence Arrives With iOS 18.1: Here Are 3 Features That You'll Use Daily",
+      "description": "The first Apple Intelligence features, including an improved Siri, are available for select iPhones.",
+      "url": "https://www.cnet.com/tech/services-and-software/apple-intelligence-arrives-with-ios-18-1-here-are-3-features-that-youll-use-daily/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ced5b9a0b0a4f5c73ca893268fc9164272e8272a/hub/2024/09/17/d5f874ee-5feb-41cf-bfb0-cf913721ea4d/apple-iphone-16-pro-max-apple-intelligence-siri-halo-glow-4675.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-11-07T00:30:03Z",
+      "content": "The wait for Apple Intelligence is over. Apple has teased and promised many features since introducing its AI technology earlier this year, and now we get our first taste of Apple's AI ambitions in i… [+4721 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Mandy Sleight",
+      "title": "Here's How to Harness the Power of Apple Cider Vinegar for Your Health",
+      "description": "Apple cider vinegar is more than just a kitchen staple. It might be able to benefit your health, too.",
+      "url": "https://www.cnet.com/health/nutrition/how-to-harness-the-power-of-apple-cider-vinegar-for-your-health/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/2a58d362f699a1d08ec77bfe6f84b0e3de12e665/hub/2024/09/05/d836188a-7f42-4923-a9cd-5047df8b2f32/apple-cider-vinegar-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-11-07T18:00:00Z",
+      "content": "TikTok is filled with the health hacks of apple cider vinegar right now. If you're on that side of the internet, it's hard to scroll without seeing something about this kitchen staple. That got us to… [+8358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yanko Design"
+      },
+      "author": "Sarang Sheth",
+      "title": "EliteMini AI370: The Tiny Windows Mini-PC Built to Outperform Apple’s M4 Mac mini",
+      "description": "EliteMini AI370: The Tiny Windows Mini-PC Built to Outperform Apple’s M4 Mac miniYou know how every time Apple launches a feature on the iPhone, Android people rush to point out they did it first, or they did...",
+      "url": "https://www.yankodesign.com/2024/11/07/elitemini-ai370-the-tiny-windows-mini-pc-built-to-outperform-apples-m4-mac-mini/",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2024/11/elitemini-ai370-the-tiny-windows-mini-pc-built-to-outperform-apples-m4-mac-mini/elitemini_ai370_mini_pc_1.jpg",
+      "publishedAt": "2024-11-07T21:45:06Z",
+      "content": "You know how every time Apple launches a feature on the iPhone, Android people rush to point out they did it first, or they did it better? If you’re a Windows fan, this post might just be perfect for… [+3980 chars]"
+    }
+  ]
+}

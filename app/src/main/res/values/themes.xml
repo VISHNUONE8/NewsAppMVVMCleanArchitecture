@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.NewsAppComposeMVVMTej" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Base.Theme.News" parent="Theme.Material3.Light.NoActionBar"/>
+    <style name="Theme.NewsAppComposeMVVM" parent="Base.Theme.News"/>
+
+</resources>
