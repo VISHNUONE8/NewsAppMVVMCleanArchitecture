@@ -63,6 +63,8 @@ buildConfigField("String", "API_KEY", "\"<Add your API Key>\"")
 
 ## The Complete Project Folder Structure
 
+```
+
 ├── data
 │   ├── api
 │   │   └── NewsApiService.kt
@@ -131,6 +133,7 @@ buildConfigField("String", "API_KEY", "\"<Add your API Key>\"")
 └── viewmodel
 └── NewsViewModel.kt
 
+```
 
 
 <p align="center">
