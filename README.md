@@ -61,6 +61,75 @@ buildConfigField("String", "API_KEY", "\"<Add your API Key>\"")
 - Replace "Add your API Key" with the API key you obtained
 - Build and run the NewsApp.
 
+## The Complete Project Folder Structure
+
+├── data
+│   ├── api
+│   │   └── NewsApiService.kt
+│   ├── db
+│   │   ├── ArticleDAO.kt
+│   │   ├── ArticleDatabase.kt
+│   │   └── Converters.kt
+│   ├── model
+│   │   ├── ApiResponse.kt
+│   │   ├── Article.kt
+│   │   └── Source.kt
+│   ├── repository
+│   │   ├── dataSource
+│   │   │   ├── NewsLocalDataSource.kt
+│   │   │   └── NewsRemoteDataSource.kt
+│   │   └── dataSourceImpl
+│   │       ├── NewsLocalDataSourceImpl.kt
+│   │       └── NewsRemoteDataSourceImpl.kt
+│   └── util
+│       ├── Const.kt
+│       ├── NoInternetException.kt
+│       ├── ResultState.kt
+│       └── ValidationUtil.kt
+├── domain
+│   ├── repository
+│   │   ├── NewsRepository.kt
+│   │   └── NewsRepositoryImpl.kt
+│   └── usecase
+│       ├── DeleteSavedNewsUseCase.kt
+│       ├── GetNewsHeadlinesUseCase.kt
+│       ├── GetSavedNewsUseCase.kt
+│       ├── GetSearchedNewsUseCase.kt
+│       ├── GetUSNewsHeadlinesUseCase.kt
+│       └── SaveNewsUseCase.kt
+└── presentation
+├── NewsApp.kt
+├── common
+│   ├── NavigationUtil.kt
+│   └── networkhelper
+│       ├── NetworkHelper.kt
+│       └── NetworkHelperImpl.kt
+├── di
+│   ├── DataBaseModule.kt
+│   ├── FactoryModule.kt
+│   ├── LocalDataModule.kt
+│   ├── NetModule.kt
+│   ├── NetworkModule.kt
+│   ├── RemoteDataModule.kt
+│   ├── RepositoryModule.kt
+│   ├── UseCaseModule.kt
+│   └── qualifiers.kt
+└── ui
+├── CommonUI.kt
+├── MainActivity.kt
+├── screens
+│   ├── Article.kt
+│   ├── ArticleScreen.kt
+│   ├── NewsDestination.kt
+│   ├── NewsNavigation.kt
+│   ├── NewsScreen.kt
+│   └── SavedNewsScreen.kt
+├── theme
+│   ├── Color.kt
+│   ├── Theme.kt
+│   └── Type.kt
+└── viewmodel
+└── NewsViewModel.kt
 
 
 
